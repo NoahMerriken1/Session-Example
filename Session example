@@ -1,5 +1,3 @@
-.container.mat-elevation-z2.ng-star-inserted {}
-
 .sessions-container.ng-star-inserted {
     Display:none
 }
